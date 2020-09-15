@@ -1,0 +1,13 @@
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.exe
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.deps.json
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.json
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.runtimeconfig.dev.json
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.dll
+C:\Users\gavin\workspace\calc\bin\Debug\netcoreapp3.1\calc.pdb
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.csprojAssemblyReference.cache
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfoInputs.cache
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.AssemblyInfo.cs
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.csproj.CoreCompileInputs.cache
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.dll
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.pdb
+C:\Users\gavin\workspace\calc\obj\Debug\netcoreapp3.1\calc.genruntimeconfig.cache
